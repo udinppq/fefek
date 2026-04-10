@@ -1,0 +1,14 @@
+{
+  "name": "seo cheker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.13.5",
+    "telegraf": "^4.16.3"
+  }
+}
